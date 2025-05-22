@@ -68,5 +68,4 @@ output = [5, 0]
 timeToEat("5:50 a.m.")
 # 1 hour and 10 minutes until the next meal, breakfast
 output = [1, 10]
-
 """
